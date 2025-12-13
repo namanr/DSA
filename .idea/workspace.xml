@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="528de259-ac8a-405c-9c5e-bac256315b8f" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/Day8/LongestSubarrayAfterDeletingOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9/LongestSubstringAfterKReplacements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,7 @@
     "git-widget-placeholder": "main",
     "ignore.preview.features.used": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/namansingh/office/code/DSA/Day6",
+    "last_opened_file_path": "/Users/namansingh/office/code/DSA/Day9",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -51,11 +52,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Day9" />
       <recent name="$PROJECT_DIR$/Day6" />
       <recent name="$PROJECT_DIR$/Day5" />
       <recent name="$PROJECT_DIR$/Day4" />
       <recent name="$PROJECT_DIR$/Day3" />
-      <recent name="$PROJECT_DIR$/Day2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Day1" />
